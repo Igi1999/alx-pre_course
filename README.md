@@ -1,1 +1,1 @@
-My first readme
+readme fot oxo1.git
